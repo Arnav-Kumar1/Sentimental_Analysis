@@ -1,4 +1,4 @@
-** Sentiment Analysis Project on Twitter Comments **
+* Sentiment Analysis Project on Twitter Comments
 
 Introduction: This project aims to classify Twitter comments into
 different sentiments using a One vs Rest classifier along with Linear
