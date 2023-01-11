@@ -1,4 +1,4 @@
-Sentiment Analysis Project on Twitter Comments
+* Sentiment Analysis Project on Twitter Comments
 
 Introduction: This project aims to classify Twitter comments into
 different sentiments using a One vs Rest classifier along with Linear
@@ -6,7 +6,7 @@ Support Vector Classification (SVC). The dataset used for training and
 testing the model consisted of Twitter comments and their corresponding
 sentiment labels.
 
-Data:
+* Data:
 
 The dataset used for this project consisted of Twitter comments and
 their corresponding sentiment labels. The comments were collected from
@@ -28,7 +28,7 @@ Twitter comments into different sentiments with a high accuracy of 96%.
 The precision and recall of 87% and 75% respectively, showed that the
 model performed well in identifying true positives and true negatives.
 
-To run the project
+* To run the project...
 
 Clone the repository to your local machine Install the dependencies
 mentioned in the requirements.txt Run the jupyter notebook
