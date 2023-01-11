@@ -1,0 +1,1 @@
+train.csv and .ipynb file are the only two things you need to run the program. make sure both the files are into the same folder
